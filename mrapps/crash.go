@@ -8,7 +8,7 @@ package main
 // go build -buildmode=plugin crash.go
 //
 
-import "6.5840/mr"
+import "MapReduceFrame/mr"
 import crand "crypto/rand"
 import "math/big"
 import "strings"
